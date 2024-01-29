@@ -1,2 +1,2 @@
 # FarmMate-Moisture-Monitoring-System
-A cutting-edge solution for precise monitoring of maize crop quality, focusing on moisture content. 
+A cutting-edge solution for precise monitoring of maize crop quality, focusing on moisture content. The mobile app, built with Flutter, seamlessly integrates with IoT devices equipped with temperature and humidity sensors. This non-destructive approach ensures efficient farming practices and reduces post-harvest losses. Powered by machine learning for data analysis and informed decision-making.
