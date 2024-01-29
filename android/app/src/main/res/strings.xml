@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FarmMate</string>
-    <string name="facebook_app_id">752505873400927</string>
-    <string name="fb_login_protocol_scheme">4b9fd6a57584a4344b83dee59b297ea1</string>
+    <string name="app_name">YOUR_PROJECT_NAME</string>
+    <string name="facebook_app_id">YOUR_APP_ID</string>
+    <string name="fb_login_protocol_scheme">YOUR_LOGIN_KEY</string>
 </resources>
